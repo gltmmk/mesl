@@ -18,13 +18,16 @@ MESL机场为您提供快速且稳定的VPN接入服务，拥有覆盖全球的3
 目前MESL机场没有跑路，可以放心使用。
 
 ## MESL价格
+| 套餐名称                | 价格       | 流量     | 特点                                                                                                                                                     |
+|-----------------------|----------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Premium 50G**       | ¥155/年    | 50GB/月  | 年付起，BGP+IPLC+IEPL专线传输，多地域接入，最高5000Mbps速率可用，Netfilx/Disney+/HBO/ChatGPT/Dazn/Tiktok解锁，支持5台设备同时在线，130+全球节点，欧洲节点1.5倍率计费 |
+| **Premium 100G**      | ¥72/季度   | 100GB/月 | 季付起，BGP+IPLC+IEPL专线传输，多地域接入，最高5000Mbps速率可用，Netfilx/Disney+/HBO/ChatGPT/Dazn/Tiktok解锁，支持5台设备同时在线，130+全球节点，欧洲节点1.5倍率计费 |
+| **Premium 200G**      | ¥50/月    | 200GB/月 | BGP+IPLC+IEPL专线传输，多地域接入，最高5000Mbps速率可用，Netfilx/Disney+/HBO/ChatGPT/Dazn/Tiktok解锁，支持5台设备同时在线，130+全球节点，欧洲节点1.5倍率计费        |
+| **Premium 300G**      | ¥70/月    | 300GB/月 | BGP+IPLC+IEPL专线传输，多地域接入，最高5000Mbps速率可用，Netfilx/Disney+/HBO/ChatGPT/Dazn/Tiktok解锁，支持5台设备同时在线，130+全球节点，欧洲节点1.5倍率计费        |
+| **Premium 500G**      | ¥110/月   | 500GB/月 | BGP+IPLC+IEPL专线传输，多地域接入，最高5000Mbps速率可用，Netfilx/Disney+/HBO/ChatGPT/Dazn/Tiktok解锁，支持5台设备同时在线，130+全球节点，欧洲节点1.5倍率计费        |
+| **Premium 1024G**     | ¥210/月   | 1024GB/月| BGP+IPLC+IEPL专线传输，多地域接入，最高5000Mbps速率可用，Netfilx/Disney+/HBO/ChatGPT/Dazn/Tiktok解锁，支持5台设备同时在线，130+全球节点，欧洲节点1.5倍率计费        |
+| **Premium Enterprise Service** | ¥2000/月 | 定制服务 | 根据定制内容提供服务，99.9%SLA保证，独享入口/落地/家宽/5G蜂窝网络，购买前请发工单联系                                                                                                  |
 
-Premium 100G：￥72/季度
-Premium 200G：￥50/月
-Premium 300G：￥70/月
-Premium 500G：￥110/月
-Premium 1024G：￥210/月
-Premium Enterprise Service：￥2000/月，提供定制线路服务。
 
 ## MESL机场怎么样
 
